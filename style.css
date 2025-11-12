@@ -307,6 +307,7 @@ img {
   }
   .section_two {
     justify-content: center;
+    padding-top: 24px;
   }
   .sectiontwo_images {
     gap: 20pxd;
